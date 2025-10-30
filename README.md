@@ -97,57 +97,133 @@ Supports 6 Indian languages:
 
 ---
 
-## � Screenshots
+## 📸 App Screenshots & Features
 
-<div align="center">
+> **📹 Watch the complete app demonstration: [Demo Video on Google Drive](https://drive.google.com/file/d/1YW183jX3cA040SeZIpAeTTINPKUK8PgJ/view?usp=drive_link)**
 
-### User Profile & Stats
-<img src="https://github.com/aadil0307/SeaSure/assets/screenshots/profile.jpg" width="250" alt="User Profile"/>
+### 👤 User Profile & Stats
+- Fisher profile with name, email, and verification badge
+- Experience tracking (years at sea)
+- Statistics: Total catches, Active days, Cumulative weight
+- Profile photo management with camera integration
 
-*Personalized fisher profile with experience tracking and catch statistics*
+
+
+### 🗺️ Interactive Maritime Map
+**Main Map View:**
+- Complete Indian coastline from Gujarat to West Bengal
+- Real-time GPS tracking with blue location marker
+- Red alert marker for current position
+- State boundaries and EEZ zones marked in green
+- PFZ (Potential Fishing Zones) visualization
+
+**PFZ Sectors & Landing Centres:**
+- 8 major coastal sectors color-coded
+- 400+ landing centres marked with pink icons along the coast  
+- Interactive map with layers toggle (PFZ Sectors, PFZ Lines, Landing Centres)
+
+**Nearest Port Finder:**
+- Real-time distance calculation (e.g., "JuhuTara - 22.40 km")
+- One-tap navigation to nearest landing centre
+- "My Location" and "Nearest Port" quick action buttons
+
+
+
+### 🌤️ Marine Weather Intelligence
+**Real-Time Conditions:**
+- Wind Speed: 17 km/h with direction (120°)
+- Wave Height: 0.6m
+- Visibility: 2.5 km
+- Temperature: 26°C
+- Humidity, Pressure, UV Index tracking
+
+**AI-Powered Smart Fishing Insights:**
+- ⚠️ "CHALLENGING CONDITIONS" alerts
+- Detailed analysis: "High winds (17km/h) and reduced visibility (2.5km) make offshore fishing risky. Consider shore-based alternatives."
+- Wind Analysis: "Moderate winds - Good for anchored fishing, adjust for drift"
+- Visibility Impact: "Reduced visibility - Use GPS, stay close to familiar areas"
+- Sea State assessment
+- Barometric Pressure trends
+
+**Critical Safety Warnings:**
+- 🚫 **"DO NOT GO FISHING!"** - Large red warning banner
+- "Challenging conditions - Stay close to shore"
+- Poor fishing condition indicator
+
+
+
+### 🚀 Smart Trip Planner
+**AI-Powered Planning:**
+- "AI Smart Plan" automated trip optimization
+- "Manual Trip" for custom planning
+
+**Quick Trip Ideas:**
+- 🌅 Morning Pomfret Run
+  - Duration: 4 hours
+  - Distance: 25 km
+  - Expected catch: 8-12 kg
+  - Success rate: 85% (green indicator)
+- More pre-configured trip templates
+
+**Your Trip Plans:**
+- Save and manage multiple trips
+- Weather-based suggestions
+- Historical success rates
+
+
+
+### 🚨 Emergency SOS System
+**One-Tap Emergency Response:**
+- Large red "SOS" button on all screens
+- Automatic GPS location capture
+- Real-time coordinates: 19.187461° N, 73.022081° E
+- Accuracy indicator: Medium (15m)
+
+**Emergency Actions:**
+- 📍 Share Location (WhatsApp, SMS, other apps)
+- 📞 Call 112 (Indian Coast Guard)
+- 🗺️ Open in Google Maps
+- Emergency contact alerts
+
+### 🔔 Maritime Alerts Center
+**Alert Management:**
+- Filter by: All, Unread, Demo, Real
+- Bulk actions: Mark All Read, Clear All
+- Alert statistics tracker
+
+**Alert Types:**
+- 🚨 Emergency Alert Active (critical priority)
+- 🚢 Boundary Violation warnings
+- 🌊 Weather alerts
+- 📋 Regulatory notifications
+- Detailed timestamps and GPS coordinates
+
+**Judge Demo Mode:**
+- 🚨 "BOUNDARY VIOLATION" - Loud continuous buzzer
+- ⚠️ "Approaching Boundary" - Warning sound + notification
+- 🌊 "Multi-Zone Sequence" - Progressive violations
+- Test notifications: Emergency, Weather, Fishing, Navigation
+
+
+
+### 📖 Digital Fishing Logbook
+**Catch Tracking:**
+- 🐟 Fish Species selection:
+  - 📸 "AI Fish Detection" - Camera-based automatic identification
+  - Manual selection from comprehensive database
+- ⚖️ Weight tracking in kg
+- 📍 Location tagging
+- 📅 Automatic timestamps
+
+**Smart Features:**
+- ☁️ "Online - Auto sync enabled"
+- Cloud backup of all catches
+- Statistics: 0 Catches, 0 Days, 0.0kg Total (for new users)
+- Photo documentation support
 
 ---
 
-### Interactive Maritime Map
-<img src="https://github.com/aadil0307/SeaSure/assets/screenshots/map-main.jpg" width="250" alt="Main Map"/>
-<img src="https://github.com/aadil0307/SeaSure/assets/screenshots/map-pfz.jpg" width="250" alt="PFZ Map"/>
-<img src="https://github.com/aadil0307/SeaSure/assets/screenshots/map-landing.jpg" width="250" alt="Landing Centre"/>
-
-*Maritime boundaries, PFZ zones, and 400+ landing centres across India*
-
----
-
-### Marine Weather & Insights
-<img src="https://github.com/aadil0307/SeaSure/assets/screenshots/weather-main.jpg" width="250" alt="Weather Main"/>
-<img src="https://github.com/aadil0307/SeaSure/assets/screenshots/weather-insights.jpg" width="250" alt="Weather Insights"/>
-<img src="https://github.com/aadil0307/SeaSure/assets/screenshots/weather-warning.jpg" width="250" alt="Weather Warning"/>
-
-*Real-time marine weather with AI-powered fishing insights and safety warnings*
-
----
-
-### Smart Trip Planner
-<img src="https://github.com/aadil0307/SeaSure/assets/screenshots/trip-planner.jpg" width="250" alt="Trip Planner"/>
-
-*AI-powered trip optimization with weather-based suggestions*
-
----
-
-### Emergency SOS & Alerts
-<img src="https://github.com/aadil0307/SeaSure/assets/screenshots/sos-emergency.jpg" width="250" alt="SOS Emergency"/>
-<img src="https://github.com/aadil0307/SeaSure/assets/screenshots/alerts.jpg" width="250" alt="Alerts"/>
-<img src="https://github.com/aadil0307/SeaSure/assets/screenshots/judge-demo.jpg" width="250" alt="Demo Mode"/>
-
-*One-tap emergency alerts with GPS location sharing and boundary violation warnings*
-
----
-
-### Digital Logbook
-<img src="https://github.com/aadil0307/SeaSure/assets/screenshots/logbook.jpg" width="250" alt="Logbook"/>
-
-*Track catches with AI fish recognition and automatic sync*
-
-</div>
+**💡 Note:** To see all features in action with live demonstrations, animations, and actual app navigation, watch the [complete demo video](https://drive.google.com/file/d/1YW183jX3cA040SeZIpAeTTINPKUK8PgJ/view?usp=drive_link)!
 
 ---
 
