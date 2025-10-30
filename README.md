@@ -97,15 +97,202 @@ Supports 6 Indian languages:
 
 ---
 
-## 📸 App Screenshots & Features
+## 📸 Screenshots & Demo
 
-> **📹 Watch the complete app demonstration: [Demo Video on Google Drive](https://drive.google.com/file/d/1YW183jX3cA040SeZIpAeTTINPKUK8PgJ/view?usp=drive_link)**
+<div align="center">
 
-### 👤 User Profile & Stats
-- Fisher profile with name, email, and verification badge
-- Experience tracking (years at sea)
-- Statistics: Total catches, Active days, Cumulative weight
-- Profile photo management with camera integration
+### 🎥 Full App Demo Video
+**[▶️ Watch Complete Demo on Google Drive](https://drive.google.com/file/d/1YW183jX3cA040SeZIpAeTTINPKUK8PgJ/view?usp=drive_link)**
+
+*See all features in action with live demonstrations, animations, and actual app navigation*
+
+</div>
+
+---
+
+### 📱 Feature Showcase
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 👤 User Profile
+
+**Profile Management**
+- Fisher name & email
+- ✅ Verified badge
+- ⭐ Experience (0 years)
+- 📊 Stats Dashboard
+  - 0 Catches
+  - 0 Days at sea  
+  - 0.0kg Total catch
+- 📸 Profile photo upload
+
+</td>
+<td width="33%" align="center">
+
+### 🗺️ Maritime Map (1/3)
+
+**Main Navigation**
+- 🌍 Full Indian coastline
+- 📍 Real-time GPS tracking
+- 🔴 Current location marker
+- 🟢 EEZ boundary zones
+- 🗺️ State-wise sectors
+- 🔘 Layer controls
+
+</td>
+<td width="33%" align="center">
+
+### 🗺️ Maritime Map (2/3)
+
+**PFZ Zones & Sectors**
+- 🟩 8 Coastal sectors
+- 🎯 400+ landing centres
+- 📍 Pink location markers
+- 🌊 Fishing zone overlays
+- 📏 Distance calculations
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+
+### 🗺️ Maritime Map (3/3)
+
+**Nearest Port Finder**
+- 📍 JuhuTara Landing Centre
+- 📏 Distance: 22.40 km
+- ✅ "OK" to navigate
+- 🧭 Direction indicators
+- 🚢 Port information
+
+</td>
+<td width="33%" align="center">
+
+### 🌤️ Marine Weather (1/3)
+
+**Current Conditions**
+- 🌡️ Temperature: 26°C
+- 💨 Wind: 17 km/h (120°)
+- 🌊 Wave Height: 0.6m
+- 👁️ Visibility: 2.5 km
+- 📊 Fishing Rating: **Poor**
+
+</td>
+<td width="33%" align="center">
+
+### 🌤️ Weather Insights (2/3)
+
+**AI Smart Analysis**
+- ⚠️ **CHALLENGING CONDITIONS**
+- "High winds (17km/h) make offshore risky"
+- 💨 Wind Analysis
+- 👁️ Visibility Impact  
+- 🌊 Sea State check
+- 📊 Barometric Pressure
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+
+### 🌤️ Safety Warning (3/3)
+
+**Critical Alert**
+- 🚫 **DO NOT GO FISHING!**
+- ⚠️ Red warning banner
+- "Challenging conditions"
+- "Stay close to shore"
+- 🌊 Real-time updates
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 Smart Trip Planner
+
+**AI-Powered Planning**
+- ✨ AI Smart Plan mode
+- 🚢 Morning Pomfret Run
+  - ⏱️ 4 hours
+  - 📏 25 km
+  - 🐟 8-12 kg expected
+  - ✅ 85% success rate
+- ➕ Manual trip option
+
+</td>
+<td width="33%" align="center">
+
+### 🚨 Emergency SOS
+
+**One-Tap Alert System**
+- 🔴 Large SOS button
+- 📍 GPS: 19.187461° N
+- 📍 GPS: 73.022081° E  
+- 📊 Accuracy: Medium (15m)
+- 📲 Share Location
+- 📞 Call 112
+- 🗺️ Open in Maps
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+
+### 📖 Fishing Logbook
+
+**Digital Catch Tracker**
+- 📸 AI Fish Detection
+- 🐟 Take photo to identify
+- ⚖️ Weight: 0.0 kg
+- 📝 Manual species list
+- ☁️ Auto-sync enabled
+- 📊 Statistics tracking
+
+</td>
+<td width="33%" align="center">
+
+### 🔔 Maritime Alerts
+
+**Alert Management**
+- 📊 Total: 1 | Unread: 1
+- 🎭 Demo: 1 | Real: 0
+- 🚨 Emergency Alert Active
+- 📅 31/10/2025, 2:07:08 am
+- 📍 Location: 19.1875, 73.0221
+- ⚠️ Priority: critical
+
+</td>
+<td width="33%" align="center">
+
+### 🎭 Judge Demo Mode
+
+**Alert Testing**
+- 🚨 Boundary Violation
+- ⚠️ Approaching Boundary  
+- 🌊 Multi-Zone Sequence
+- 🆘 Emergency alerts
+- 🌤️ Weather warnings
+- 🐟 Fishing updates
+- 🧭 Navigation alerts
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🎬 Want to see it in action?
+**[📹 Watch the Full Demo Video](https://drive.google.com/file/d/1YW183jX3cA040SeZIpAeTTINPKUK8PgJ/view?usp=drive_link)**
+
+*Experience the app with live navigation, real-time data, sounds, and animations*
+
+</div>
 
 
 
