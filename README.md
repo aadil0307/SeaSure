@@ -110,178 +110,85 @@ Supports 6 Indian languages:
 
 ---
 
-### 📱 Feature Showcase
+### 📱 App Screenshots
+
+<div align="center">
 
 <table>
 <tr>
 <td width="33%" align="center">
-
-### 👤 User Profile
-
-**Profile Management**
-- Fisher name & email
-- ✅ Verified badge
-- ⭐ Experience (0 years)
-- 📊 Stats Dashboard
-  - 0 Catches
-  - 0 Days at sea  
-  - 0.0kg Total catch
-- 📸 Profile photo upload
-
+<img src="./screenshots/01-profile.jpg" width="250" alt="User Profile"/><br/>
+<b>👤 User Profile</b><br/>
+Fisher stats & verification
 </td>
 <td width="33%" align="center">
-
-### 🗺️ Maritime Map (1/3)
-
-**Main Navigation**
-- 🌍 Full Indian coastline
-- 📍 Real-time GPS tracking
-- 🔴 Current location marker
-- 🟢 EEZ boundary zones
-- 🗺️ State-wise sectors
-- 🔘 Layer controls
-
+<img src="./screenshots/03-map-main.jpg" width="250" alt="Maritime Map"/><br/>
+<b>🗺️ Maritime Map</b><br/>
+Indian coastline with GPS tracking
 </td>
 <td width="33%" align="center">
-
-### 🗺️ Maritime Map (2/3)
-
-**PFZ Zones & Sectors**
-- 🟩 8 Coastal sectors
-- 🎯 400+ landing centres
-- 📍 Pink location markers
-- 🌊 Fishing zone overlays
-- 📏 Distance calculations
-
+<img src="./screenshots/05-map-pfz.jpg" width="250" alt="PFZ Zones"/><br/>
+<b>🌊 PFZ Zones & Sectors</b><br/>
+400+ landing centres
 </td>
 </tr>
 
 <tr>
 <td width="33%" align="center">
-
-### 🗺️ Maritime Map (3/3)
-
-**Nearest Port Finder**
-- 📍 JuhuTara Landing Centre
-- 📏 Distance: 22.40 km
-- ✅ "OK" to navigate
-- 🧭 Direction indicators
-- 🚢 Port information
-
+<img src="./screenshots/04-map-landing.jpg" width="250" alt="Nearest Port"/><br/>
+<b>⚓ Nearest Landing Centre</b><br/>
+Distance: 22.40 km
 </td>
 <td width="33%" align="center">
-
-### 🌤️ Marine Weather (1/3)
-
-**Current Conditions**
-- 🌡️ Temperature: 26°C
-- 💨 Wind: 17 km/h (120°)
-- 🌊 Wave Height: 0.6m
-- 👁️ Visibility: 2.5 km
-- 📊 Fishing Rating: **Poor**
-
+<img src="./screenshots/06-weather-main.jpg" width="250" alt="Marine Weather"/><br/>
+<b>🌤️ Marine Weather</b><br/>
+Real-time conditions
 </td>
 <td width="33%" align="center">
-
-### 🌤️ Weather Insights (2/3)
-
-**AI Smart Analysis**
-- ⚠️ **CHALLENGING CONDITIONS**
-- "High winds (17km/h) make offshore risky"
-- 💨 Wind Analysis
-- 👁️ Visibility Impact  
-- 🌊 Sea State check
-- 📊 Barometric Pressure
-
+<img src="./screenshots/07-weather-insights.jpg" width="250" alt="Weather Insights"/><br/>
+<b>🧠 AI Weather Insights</b><br/>
+Smart fishing analysis
 </td>
 </tr>
 
 <tr>
 <td width="33%" align="center">
-
-### 🌤️ Safety Warning (3/3)
-
-**Critical Alert**
-- 🚫 **DO NOT GO FISHING!**
-- ⚠️ Red warning banner
-- "Challenging conditions"
-- "Stay close to shore"
-- 🌊 Real-time updates
-
+<img src="./screenshots/08-weather-warning.jpg" width="250" alt="Safety Warning"/><br/>
+<b>⚠️ Safety Warnings</b><br/>
+DO NOT GO FISHING alerts
 </td>
 <td width="33%" align="center">
-
-### 🚀 Smart Trip Planner
-
-**AI-Powered Planning**
-- ✨ AI Smart Plan mode
-- 🚢 Morning Pomfret Run
-  - ⏱️ 4 hours
-  - 📏 25 km
-  - 🐟 8-12 kg expected
-  - ✅ 85% success rate
-- ➕ Manual trip option
-
+<img src="./screenshots/09-trip-planner.jpg" width="250" alt="Trip Planner"/><br/>
+<b>🚀 Smart Trip Planner</b><br/>
+AI-powered optimization
 </td>
 <td width="33%" align="center">
-
-### 🚨 Emergency SOS
-
-**One-Tap Alert System**
-- 🔴 Large SOS button
-- 📍 GPS: 19.187461° N
-- 📍 GPS: 73.022081° E  
-- 📊 Accuracy: Medium (15m)
-- 📲 Share Location
-- 📞 Call 112
-- 🗺️ Open in Maps
-
+<img src="./screenshots/10-sos-emergency.jpg" width="250" alt="Emergency SOS"/><br/>
+<b>� Emergency SOS</b><br/>
+One-tap alert system
 </td>
 </tr>
 
 <tr>
 <td width="33%" align="center">
-
-### 📖 Fishing Logbook
-
-**Digital Catch Tracker**
-- 📸 AI Fish Detection
-- 🐟 Take photo to identify
-- ⚖️ Weight: 0.0 kg
-- 📝 Manual species list
-- ☁️ Auto-sync enabled
-- 📊 Statistics tracking
-
+<img src="./screenshots/11-logbook.jpg" width="250" alt="Fishing Logbook"/><br/>
+<b>📖 Digital Logbook</b><br/>
+AI fish detection & tracking
 </td>
 <td width="33%" align="center">
-
-### 🔔 Maritime Alerts
-
-**Alert Management**
-- 📊 Total: 1 | Unread: 1
-- 🎭 Demo: 1 | Real: 0
-- 🚨 Emergency Alert Active
-- 📅 31/10/2025, 2:07:08 am
-- 📍 Location: 19.1875, 73.0221
-- ⚠️ Priority: critical
-
+<img src="./screenshots/12-alerts.jpg" width="250" alt="Maritime Alerts"/><br/>
+<b>� Maritime Alerts</b><br/>
+Alert management center
 </td>
 <td width="33%" align="center">
-
-### 🎭 Judge Demo Mode
-
-**Alert Testing**
-- 🚨 Boundary Violation
-- ⚠️ Approaching Boundary  
-- 🌊 Multi-Zone Sequence
-- 🆘 Emergency alerts
-- 🌤️ Weather warnings
-- 🐟 Fishing updates
-- 🧭 Navigation alerts
-
+<img src="./screenshots/02-profile-alt.jpg" width="250" alt="Profile Details"/><br/>
+<b>📊 Profile Stats</b><br/>
+Catches & experience tracking
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
